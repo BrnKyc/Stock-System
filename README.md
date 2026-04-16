@@ -1,19 +1,5 @@
-# Stock Management System
-
-## Features
-- QR-Code scanning
-- Minimum stock warning
-- Excel export
-- REST API
-
-## Tech Stack
-- React
-- FastAPI
-- PostgreSQL
-
-## Setup
-# backend
-uvicorn main:app
-
-# frontend
-npm run dev
+<h1></h1>
+<img src="11.png">
+<img src="22.png">
+<img src="33.png">
+<img src="4.png">
